@@ -1,0 +1,15 @@
+html, body{
+    background-color: white;
+}
+
+img{
+    float: left;
+    margin-right: 10px;
+    clear: both;
+}
+
+p{
+    margin-left: 0px;
+    overflow: auto;
+    display: block;
+}
